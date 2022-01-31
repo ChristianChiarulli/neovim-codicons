@@ -6,14 +6,13 @@
 @font-face {
 	font-family: "codicon";
 	font-display: block;
-	src: url("./codicon.ttf?65173399cd6a55a0a11d09663c8ba230") format("truetype");
+	src: url("./codicon.ttf?ac9037789ae308e8585f4bd26caf783e") format("truetype");
 }
 
 .codicon[class*='codicon-'] {
 	font: normal normal normal 16px/1 codicon;
 	display: inline-block;
 	text-decoration: none;
-  vertical-align: bottom;
 	text-rendering: auto;
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
